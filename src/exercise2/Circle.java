@@ -12,7 +12,7 @@ public class Circle {
         
 
         System.out.println("Circumference: " + 2*(Math.PI)*r);
-        System.out.println("Area: " + 2*(Math.PI)*r*r);
+        System.out.println("Area: " + (Math.PI)*r*r);
     }
 
 }
